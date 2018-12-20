@@ -1,0 +1,140 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Charm', cursive;
+}
+
+/*-----------------background----------------*/
+
+html,
+body {
+	height: 100%;
+
+}
+
+#all {
+	background-image: url(http://res.freestockphotos.biz/pictures/15/15396-a-healthy-young-man-lifting-weights-in-a-gym-pv.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.gym {
+	box-sizing: border-box;
+	overflow: auto;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 10, 5, 0.63);
+	color: #fff;
+	padding: 60px;
+}
+
+/*-----------------startpage--------------*/
+
+h1 {
+	padding-bottom: 20px;
+
+}
+
+.button {
+	margin-bottom: 30px;
+}
+
+#img {
+	margin-bottom: 60px;
+}
+
+/*-------------------------sign in-------------------*/
+
+h2 {
+	padding-bottom: 60px;
+}
+
+#remember {
+	margin-bottom: 20px;
+
+}
+
+#forgot {
+	margin-top: 0px;
+}
+
+#but {
+	padding: 5px 30px;
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration:
+}
+
+/*------------reset passwprd-------------*/
+
+.reset {
+	margin-top: 30px;
+}
+
+/*-------------------first page---------------*/
+
+#later {
+	background-image: url(https://torange.biz/photofx/177/8/light-technology-background-tech-abstract-texture-techno-modern-computer-177251.jpg);
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+.gy {
+	box-sizing: border-box;
+	overflow: auto;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 10, 5, 0.63);
+}
+
+#flex {
+	display: flex;
+	justify-content: center;
+	flex-direction: column
+}
+
+.gallery {
+	position: relative;
+	text-align: center;
+	color: rgb(255, 255, 255);
+	padding-bottom: 50px;
+}
+
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 80px;
+	font-weight: bold;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	color: rgb(255, 255, 255)
+}
+
+/*-----------------profile--------------*/
+#smaler {
+	margin: 3vw 10vw;
+}
+
+.move {
+	margin-bottom: 10px;
+}
+
+#profile {
+	border-radius: 50%
+}
+
+/*-------------training---------------------*/
+.g {
+	box-sizing: border-box;
+	overflow: auto;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(211, 208, 208, 0.63);
+}
+
+table {
+	margin-top: 60px;
+}
